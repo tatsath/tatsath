@@ -1,6 +1,6 @@
 ### Hi there 👋
 My book [Machine Learning and Data Science Blueprints for Finance][1] is a great 
-introduction to the use of Machine Learning and Data science across different areas in Finance. 
+introduction to the use of Machine Learning and Data science for different applications in Finance. 
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51EhsIZvh7L._SX379_BO1,204,203,200_.jpg" title="book" width="150" />
 
