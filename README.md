@@ -6,6 +6,8 @@ introduction to the use of Machine Learning and Data science for different appli
 
 [1]: https://www.amazon.com/Machine-Learning-Science-Blueprints-Finance/dp/1492073059
 
+My linkedin: https://www.linkedin.com/in/hariomtatsat/
+
 <!--
 **tatsath/tatsath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
